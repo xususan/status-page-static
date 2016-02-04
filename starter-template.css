@@ -79,7 +79,7 @@ html{
   -moz-transform: rotate(-89deg) translateX(-190px);
 }
 .chart[data-percent='75'] .outer {
-  stroke-dashoffset: 133;
+  stroke-dashoffset: 161;
   -webkit-animation: show75 2s;
   animation: show75 2s;
 }
@@ -96,6 +96,6 @@ html{
   }
   
   to {
-    stroke-dashoffset: 134;
+    stroke-dashoffset: 161;
   }
 }
